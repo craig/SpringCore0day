@@ -1,6 +1,7 @@
 # Spring Core RCE
 
 > After Spring Cloud, on 3.29, another major Spring vulnerability was reported online: Spring Core RCE
+(Note from craig: Spring Cloud exploit here: https://github.com/hktalent/spring-spel-0day-poc)
 
 ## coded poc in circulation
 ** currently exp has been uploaded ``exp.py`` **
