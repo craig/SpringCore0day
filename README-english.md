@@ -4,8 +4,8 @@
 
 ## coded poc in circulation
 ** currently exp has been uploaded ``exp.py`` **
-! [circulating coded poc](images/poc.png)
-! [awkward situation](images/img_1.png)
+![circulating coded poc](images/poc.png)
+![awkward situation](images/img_1.png)
 
 ## The official Spring patch is also in active production  
 [Link to patches in production for Spring](https://github.com/spring-projects/spring-framework/commit/7f7fb58dd0dae86d22268a4b59ac7c72a6c22529)
