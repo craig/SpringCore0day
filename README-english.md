@@ -1,6 +1,8 @@
 UPDATE: Praetorian Labs claims they've verified the bug.
 "Spring Core on JDK9+ is vulnerable to remote code execution due to a bypass for CVE-2010-1622."
+
 https://twitter.com/praetorianlabs/status/1509207085485113356
+
 https://twitter.com/praetorianlabs/status/1509207144675086343
 
 
