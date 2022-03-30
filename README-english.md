@@ -5,6 +5,10 @@ https://twitter.com/praetorianlabs/status/1509207085485113356
 
 https://twitter.com/praetorianlabs/status/1509207144675086343
 
+Confirmation from GitHub security researcher:
+
+https://twitter.com/pwntester/status/1509235919106236416
+
 
 # Spring Core RCE
 
