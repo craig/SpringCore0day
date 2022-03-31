@@ -1,3 +1,9 @@
+# Information
+
+https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement
+
+https://www.rapid7.com/blog/post/2022/03/30/spring4shell-zero-day-vulnerability-in-spring-framework/?s=03
+
 # How to reproduce
 docker run -d -p 8082:8080 --name springrce -it vulfocus/spring-core-rce-2022-03-29
 
