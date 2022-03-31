@@ -7,6 +7,11 @@ curl --output - "http://192.168.0.11:8082/tomcatwar.jsp?pwd=j&cmd=id"
 
 ![vulnerable code + poc](images/exploit.jpg)
 
+# Mitigations
+https://github.com/blindpirate/spring-rce-2022-03-hotfix (untested)
+
+https://www.praetorian.com/blog/spring-core-jdk9-rce/
+
 # Spring Core RCE
 
 > After Spring Cloud, on 3.29, another major Spring vulnerability was reported online: Spring Core RCE
