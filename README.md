@@ -10,6 +10,10 @@
 ## Spring 官方补丁也正在积极的赶制中  
 [Spring 制作中的补丁链接](https://github.com/spring-projects/spring-framework/commit/7f7fb58dd0dae86d22268a4b59ac7c72a6c22529)
 
+## Hotfix
+
+在官方补丁发布前，这个工具可以用来给受影响的项目打补丁：https://github.com/blindpirate/spring-rce-2022-03-hotfix
+
 ## 漏洞影响
 1. jdk 版本在9及以上的
 2. 使用了Spring Framework或衍生框架
